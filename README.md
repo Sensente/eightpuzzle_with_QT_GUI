@@ -1,15 +1,30 @@
-# EightPuzzle-with-QT-GUI
-------------------------------------------------------------------------------------------------------------------------------
-Q&A
+# eightpuzzle with QT GUI
+This is a simple demo A-star algorithm auto-solver for [eightpuzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle) games. I added a QT GUI to it. *Please notice that this project has been archived for several years and no more updates.*
 
-Q1:What's this?
-A1:It's a tiny program which is EightPuzzle solved by A-Star Algorithm, and we give it a GUI.
+Since it has been my course project, I DO NOT recommend you to submit for your own course.
 
-Q2:How to install?
-A2:Just download and choose the .pro files to your QTCreator.
+![version](https://img.shields.io/badge/eight_puzzle-v0.1-blue)
+[![Page Views Count](https://badges.toozhao.com/badges/01HB55C4CD1WA9Z8RTMMTZD91V/orange.svg)](https://badges.toozhao.com/stats/01HB55C4CD1WA9Z8RTMMTZD91V "Get your own page views count badge on badges.toozhao.com")
 
-Q3:Can I change it and submit it for my school works?
-A3:Sure you can, you can do anything with it EXCEPT FOR BUSINESS, ANY COMMERICAL BEHAVIORS IS PROHIBITED.
+## Contents
 
-------------------------------------------------------------------------------------------------------------------------------
+- [Background](#background)
+- [Usage](#Usage)
+- [Maintainers](#maintainers)
+- [License](#license)
 
+## Background
+
+Please click [eightpuzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle) for more details about this game. For its solution strategy, please search for yourself.
+
+## Usage
+
+Please use QT Creator to import this project.
+
+## Maintainers
+
+[@Sensente](https://github.com/Sensente).
+
+## License
+
+[Apache2.0](LICENSE) © Sensente
